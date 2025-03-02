@@ -1,0 +1,8 @@
+GameProject {
+ ID "ObjectSetTool"
+ GUID "64C2C2F94FB8C341"
+ TITLE "Object Set Tool"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
